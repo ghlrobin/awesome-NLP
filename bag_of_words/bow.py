@@ -1,6 +1,7 @@
 from collections import defaultdict
 
 # TODO: implement n-gram
+# TODO: implement preprocessing to remove punctuations
 
 
 class BagOfWords:
