@@ -1,4 +1,11 @@
-# Python Template
+# TODO:
+[] word2vec
+    [] Tensorflow's embedding projector
+[] tokenizers
+[] tfidf
+[] RandomForestClassifier
+[] Support Vector Machine
+[] Naive Bayes Classifier
 
 Template repository for Python project
 
